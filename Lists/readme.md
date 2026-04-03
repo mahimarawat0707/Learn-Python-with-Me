@@ -7,7 +7,7 @@
 
 ---
 
-## ✂️ List Slicing (Extracting Portions of a List)
+## List Slicing (Extracting Portions of a List)
 
 ### Syntax:
 list[start : stop : step]
