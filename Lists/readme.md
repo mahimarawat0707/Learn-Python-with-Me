@@ -63,7 +63,7 @@ list[start : stop : step]
 
 ---
 
-## ⭐ Key Takeaways
+## Key Takeaways
 - Lists are ordered and changeable.
 - Slicing helps extract selected elements.
 - `range()` helps generate sequences quickly.
