@@ -38,7 +38,7 @@ list[start : stop : step]
 
 ---
 
-## ✏️ Modifying Lists
+## Modifying Lists
 
 ### Adding elements:
 - New items can be appended at the **end** of the list.
