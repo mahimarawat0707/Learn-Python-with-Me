@@ -25,7 +25,7 @@ list[start : stop : step]
 
 ---
 
-## 🔁 Using `range()`
+## Using `range()`
 - `range(n)` generates a sequence from **0 to n−1**.
 - Often used in loops (`for`) to repeat actions multiple times.
 - Can be combined with lists to generate sequential data.
