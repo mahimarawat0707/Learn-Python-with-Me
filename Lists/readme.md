@@ -51,7 +51,7 @@ list[start : stop : step]
 
 ---
 
-## 🧬 Copying Lists
+## Copying Lists
 
 ### Incorrect way:
 - Assigning one list to another makes both variables point to the **same memory location**.
