@@ -1,6 +1,6 @@
 # Python Lists & List Slicing (Notes)
 
-## ✅ Lists
+## Lists
 - A **list** is a collection of ordered and changeable items.
 - Lists can store multiple values of different data types (numbers, strings, etc.).
 - Lists are written inside **square brackets**.
