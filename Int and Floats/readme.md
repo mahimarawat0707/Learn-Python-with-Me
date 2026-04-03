@@ -39,7 +39,7 @@
 
 ---
 
-## 🧠 Summary Table
+## Summary Table
 
 | Operation | Description | Example | Result |
 |------------|--------------|----------|--------|
