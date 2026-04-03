@@ -32,7 +32,7 @@ list[start : stop : step]
 
 ---
 
-## 🧠 Lists created using `range()`
+## Lists created using `range()`
 - A list can be created from a range to automatically generate sequences.
 - Adding a step to range allows skipping multiple values in the sequence.
 
