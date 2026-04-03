@@ -52,7 +52,7 @@
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 - Python automatically converts between **int** and **float** when needed.  
 - Division always results in a **float**, even if the division is exact.  
 - **Casting** is used to convert between data types.  
