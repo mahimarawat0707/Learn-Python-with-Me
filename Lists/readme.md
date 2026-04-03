@@ -1,4 +1,4 @@
-# 📝 Python Lists & List Slicing (Notes)
+# Python Lists & List Slicing (Notes)
 
 ## ✅ Lists
 - A **list** is a collection of ordered and changeable items.
