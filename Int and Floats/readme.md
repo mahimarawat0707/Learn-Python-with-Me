@@ -22,7 +22,7 @@
 
 ---
 
-## 🔁 Type Casting
+## Type Casting
 - **Casting** means converting one data type into another.  
 - Python provides built-in functions like `int()`, `float()`, and `str()` to perform type conversion.
 
