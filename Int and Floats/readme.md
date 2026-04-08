@@ -32,7 +32,7 @@
 
 ---
 
-## 🎯 Rounding Numbers
+## Rounding Numbers
 - The `round()` function rounds a float to the nearest whole number.  
 - Example Concept:  
   - `round(45.7777)` → **46**
