@@ -55,7 +55,7 @@
 
 ---
 
-## 🧩 Summary Table
+## Summary Table
 
 | Concept | Description | Example Output |
 |----------|--------------|----------------|
