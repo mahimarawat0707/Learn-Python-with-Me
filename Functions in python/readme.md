@@ -38,7 +38,7 @@
 
 ---
 
-## 🔹 Functions That Modify Lists
+## Functions That Modify Lists
 - Lists are **mutable**, meaning they can be changed inside a function.  
 - Example Concept:  
   - A list `a = [1, 2, 3]` is passed to a function `appendFour(myList)`.  
