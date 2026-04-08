@@ -67,7 +67,7 @@
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 - Functions make code **cleaner** and **reusable**.  
 - Use `return` to send results back.  
 - Parameters pass information into functions.  
