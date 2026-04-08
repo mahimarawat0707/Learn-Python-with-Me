@@ -47,7 +47,7 @@
 
 ---
 
-## ⚙️ Function Behavior Notes
+## Function Behavior Notes
 - Functions can **return** values using the `return` statement.  
 - If no `return` is provided, the function returns `None` by default.  
 - Arguments can be **positional** or **keyword-based**.  
