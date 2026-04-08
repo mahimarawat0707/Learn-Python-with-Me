@@ -7,7 +7,7 @@
 
 ---
 
-## 🧮 Arithmetic Operations
+## Arithmetic Operations
 - When performing operations between integers and floats, Python automatically **promotes** the result to a **float** if needed.
   
 ### Example Concepts:
