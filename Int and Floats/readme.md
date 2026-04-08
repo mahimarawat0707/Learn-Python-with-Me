@@ -1,4 +1,4 @@
-# 🔢 Integers and Floats in Python
+# Integers and Floats in Python
 
 ## 🔹 What Are Integers and Floats?
 - **Integers (int)** are whole numbers (e.g., `1`, `25`, `-7`).  
