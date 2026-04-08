@@ -1,6 +1,6 @@
 # Integers and Floats in Python
 
-## 🔹 What Are Integers and Floats?
+## What Are Integers and Floats?
 - **Integers (int)** are whole numbers (e.g., `1`, `25`, `-7`).  
 - **Floats (float)** are numbers with decimal points (e.g., `3.14`, `-2.5`, `0.0`).  
 - Python automatically determines whether a number is an **integer** or a **float** based on how it’s written.
