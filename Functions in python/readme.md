@@ -15,7 +15,7 @@
 
 ---
 
-## 🔹 Built-in Function Example
+## Built-in Function Example
 - The `print()` function is a **built-in function** that outputs text or values to the screen.  
 - For example:  
   - Printing “Hello” will simply display **Hello** in the output.
