@@ -1,6 +1,6 @@
 # Functions in Python
 
-## 🔹 What is a Function?
+## What is a Function?
 - A **function** is a reusable block of code that performs a specific task.  
 - It helps make programs **modular**, **organized**, and **efficient**.  
 - Functions can take **inputs (parameters)** and return **outputs (results)**.
