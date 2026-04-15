@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Key Characteristics
+## Key Characteristics
 - Defined using the `def` keyword.  
 - Can accept **arguments** (inputs).  
 - Can **return** values using the `return` statement.  
