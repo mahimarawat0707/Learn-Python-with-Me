@@ -30,7 +30,7 @@
 
 ---
 
-## 🔹 Functions with Multiple Parameters
+## Functions with Multiple Parameters
 - Functions can take more than one argument.  
 - Example Concept:  
   - A function `multiply(val1, val2)` returns the product of both numbers.  
