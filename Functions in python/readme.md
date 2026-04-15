@@ -22,7 +22,7 @@
 
 ---
 
-## 🔹 User-Defined Functions
+## User-Defined Functions
 - You can create your own functions using `def`.  
 - Example Concept:  
   - A function `multiplyByThree(val)` returns the given value multiplied by 3.  
