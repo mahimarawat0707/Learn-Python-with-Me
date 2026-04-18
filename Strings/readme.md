@@ -1,6 +1,6 @@
 # Strings in Python
 
-## 🔹 What Are Strings?
+## What Are Strings?
 - **Strings** are sequences of characters enclosed in quotes (`' '` or `" "`).  
 - Strings are **immutable**, meaning once created, they cannot be changed.  
 - You can access and manipulate strings using **indexing**, **slicing**, and **formatting** techniques.
