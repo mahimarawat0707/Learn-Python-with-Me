@@ -32,7 +32,7 @@
 
 ---
 
-## 📏 Length of Strings and Lists
+## Length of Strings and Lists
 
 - You can find the number of characters in a string or elements in a list using the `len()` function.
 
