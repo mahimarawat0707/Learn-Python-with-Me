@@ -67,7 +67,7 @@ f-strings are faster and cleaner than concatenation or the `.format()` method.
 
 ---
 
-## 🧾 Multi-line Strings
+## Multi-line Strings
 
 - Use triple quotes (`'''` or `"""`) to create strings that span multiple lines.
 - Great for paragraphs or long blocks of text.
