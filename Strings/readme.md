@@ -62,7 +62,7 @@ Example Concept:
 | `f'My number is: {5}'` | Inserts value directly | `'My number is: 5'` |
 | `f'My number is: {5} and twice that is {2*5}'` | Evaluates expressions | `'My number is: 5 and twice that is 10'` |
 
-🧠 **Tip:**  
+**Tip:**  
 f-strings are faster and cleaner than concatenation or the `.format()` method.
 
 ---
