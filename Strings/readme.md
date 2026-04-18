@@ -1,4 +1,4 @@
-# 🧵 Strings in Python
+# Strings in Python
 
 ## 🔹 What Are Strings?
 - **Strings** are sequences of characters enclosed in quotes (`' '` or `" "`).  
