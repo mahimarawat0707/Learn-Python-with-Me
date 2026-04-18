@@ -22,7 +22,7 @@
 | `name[:7]` | Same as above (start is optional) | `'My name'` |
 | `name[9:]` | Gets all characters from index 9 onward | `'s Mahima Rawat'` |
 
-### 🧩 Slicing Lists
+### Slicing Lists
 - The same slicing technique applies to **lists**.
 
 | Expression | Description | Result |
