@@ -54,7 +54,7 @@ Example Concept:
 
 ---
 
-### 🔹 Using f-Strings (Formatted Strings)
+### Using f-Strings (Formatted Strings)
 - Introduced in **Python 3.6**, f-strings allow you to embed variables and expressions directly in strings using `{}`.
 
 | Example | Description | Output |
