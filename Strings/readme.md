@@ -43,7 +43,7 @@
 
 ---
 
-## 🧮 String Formatting
+## String Formatting
 
 ### 🔹 Using Concatenation
 - You can combine strings using the `+` operator.
