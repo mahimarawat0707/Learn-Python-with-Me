@@ -7,7 +7,7 @@
 
 ---
 
-## ✂️ String Slicing
+## String Slicing
 
 - **Slicing** allows you to extract a portion of a string (or list) using the syntax:  
   `string[start:end]`
