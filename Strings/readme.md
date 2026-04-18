@@ -45,7 +45,7 @@
 
 ## String Formatting
 
-### 🔹 Using Concatenation
+### Using Concatenation
 - You can combine strings using the `+` operator.
 - Remember: non-string values must be **converted** to strings using `str()`.
 
