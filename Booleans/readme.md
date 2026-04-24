@@ -22,7 +22,7 @@ Anything **non-empty** evaluates to **True**.
 
 ---
 
-## 🔹 Booleans in Lists
+## Booleans in Lists
 - A list with elements is considered **True**.  
 - An empty list is considered **False**.  
 - Example Concept:  
