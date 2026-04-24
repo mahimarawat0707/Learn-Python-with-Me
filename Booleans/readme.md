@@ -6,7 +6,7 @@
 
 ---
 
-## 🔹 Casting to Booleans
+## Casting to Booleans
 - `bool(1)` → **True**  
 - `bool(0)` → **False**  
 - `bool(-1)` → **True**  
