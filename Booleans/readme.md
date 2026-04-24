@@ -1,6 +1,6 @@
 # Booleans in Python
 
-## 🔹 What Are Booleans?
+## What Are Booleans?
 - Booleans represent **True** or **False** values in Python.  
 - They are mainly used for **conditions**, **comparisons**, and **logical operations**.
 
