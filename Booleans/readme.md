@@ -33,7 +33,7 @@ Anything **non-empty** evaluates to **True**.
 
 ---
 
-## 🔹 Boolean Comparisons
+## Boolean Comparisons
 - When comparing values:  
   - If `a - b` equals `0`, then both are equal.  
   - Therefore, `a == b` is **True**.  
