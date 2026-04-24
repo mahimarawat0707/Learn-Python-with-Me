@@ -41,7 +41,7 @@ Anything **non-empty** evaluates to **True**.
 
 ---
 
-## 🔹 Boolean Logic
+## Boolean Logic
 - **and** → True if **both** conditions are True.  
 - **or** → True if **at least one** condition is True.  
 - **not** → Reverses the Boolean value.
