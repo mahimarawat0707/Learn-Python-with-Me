@@ -10,7 +10,7 @@
 
 ---
 
-## 🔢 Sets
+## Sets
 - Sets are **unordered collections** of **unique items**.  
 - **Order does not matter** — two sets with the same elements are equal, regardless of order.  
 - Sets **automatically remove duplicates**.  
