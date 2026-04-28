@@ -1,4 +1,4 @@
-# 🐍 Python Data Structures — Notes
+# Python Data Structures — Notes
 
 ## Lists
 - Lists are **ordered collections** of elements.  
