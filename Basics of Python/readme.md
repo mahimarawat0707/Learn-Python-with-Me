@@ -30,7 +30,7 @@
 
 ---
 
-## 📖 Dictionaries
+## Dictionaries
 - Dictionaries store data in **key-value pairs**.  
 - Keys are **unique**, while values can be **repeated**.  
 - Dictionaries are **mutable**, allowing addition, removal, or modification of items.  
