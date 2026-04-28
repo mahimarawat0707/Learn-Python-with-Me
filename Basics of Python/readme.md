@@ -40,7 +40,7 @@
 
 ---
 
-## 🧠 Summary Table
+## Summary Table
 
 | Data Type     | Ordered | Mutable | Allows Duplicates | Main Use                              |
 |----------------|----------|----------|-------------------|----------------------------------------|
