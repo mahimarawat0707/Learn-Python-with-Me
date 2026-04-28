@@ -1,6 +1,6 @@
 # 🐍 Python Data Structures — Notes
 
-## 📋 Lists
+## Lists
 - Lists are **ordered collections** of elements.  
 - **Order matters** — elements maintain their sequence.  
 - Lists are **mutable**, meaning values can be added, removed, or changed.  
