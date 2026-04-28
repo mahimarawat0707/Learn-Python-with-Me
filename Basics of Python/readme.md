@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Tuples
+## Tuples
 - Tuples are **ordered collections**, similar to lists.  
 - **Order matters** — elements retain their position.  
 - Tuples are **immutable**, meaning once created, they cannot be changed.  
