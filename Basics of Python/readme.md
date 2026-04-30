@@ -38,7 +38,7 @@
 - Used for **structured data**, such as describing properties or mappings.  
 - **Example Concept:** `'apple': 'A red fruit'` means key = `'apple'` and value = `'A red fruit'`.
 
---
+---
 
 ## 🧠 Summary Table
 
