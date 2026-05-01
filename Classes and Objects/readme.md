@@ -40,7 +40,7 @@
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 - A **class** is a template; an **object** is an instance.  
 - Use `__init__()` to initialize attributes.  
 - Use `self` to refer to the current object.  
