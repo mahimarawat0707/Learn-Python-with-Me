@@ -62,7 +62,7 @@ If `weatherIsNice = False` and `haveUmbrella = True`:
 
 ---
 
-## 🧩 Boolean Logic Summary
+## Boolean Logic Summary
 
 | Expression | Description | Result |
 |-------------|--------------|---------|
