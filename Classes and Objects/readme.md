@@ -1,4 +1,4 @@
-# 🐶 Classes in Python
+# Classes in Python
 
 ## 🔹 What is a Class?
 - A **class** is a **blueprint** for creating objects.  
