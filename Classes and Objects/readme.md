@@ -1,6 +1,6 @@
 # Classes in Python
 
-## 🔹 What is a Class?
+## What is a Class?
 - A **class** is a **blueprint** for creating objects.  
 - It defines **attributes (variables)** and **methods (functions)** that describe how an object behaves.  
 - Classes help organize code, making it more **modular**, **reusable**, and **object-oriented**.
