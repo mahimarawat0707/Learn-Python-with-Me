@@ -32,7 +32,7 @@
 
 ---
 
-## 🔹 Method Behavior
+## Method Behavior
 - The `speak()` method in the `Dog` class makes each dog “speak.”  
 - When called, it uses the dog’s name and prints a message like:
   - **Rover Says: Bark**  
