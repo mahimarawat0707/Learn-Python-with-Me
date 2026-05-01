@@ -23,7 +23,7 @@
 
 ---
 
-## 🔹 Objects and Instances
+## Objects and Instances
 - Each **object** is a **separate instance** of a class.  
 - Example Concepts:  
   - `my_dog` could be `"Rover"`  
