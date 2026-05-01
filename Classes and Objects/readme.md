@@ -7,7 +7,7 @@
 
 ---
 
-## 🔹 The `__init__()` Method
+## The `__init__()` Method
 - The `__init__()` method is called **automatically** when an object is created from a class.  
 - It’s known as the **constructor**.  
 - Used to **initialize** object properties.  
