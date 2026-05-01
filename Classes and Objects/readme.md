@@ -15,7 +15,7 @@
 
 ---
 
-## 🔹 Example Concept: The Dog Class
+## Example Concept: The Dog Class
 - A `Dog` class might have:
   - **Attributes** like `name` and `legs`.  
   - **Methods** like `speak()` that define actions the dog can perform.  
