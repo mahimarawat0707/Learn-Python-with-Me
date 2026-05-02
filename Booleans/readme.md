@@ -48,7 +48,7 @@ Anything **non-empty** evaluates to **True**.
 
 ---
 
-### 💡 Example Concept
+### Example Concept
 If `weatherIsNice = False` and `haveUmbrella = True`:
 
 - Using `if haveUmbrella or weatherIsNice:`  
