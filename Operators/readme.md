@@ -27,7 +27,7 @@
 
 ---
 
-## 🔤 Arithmetic Operators with Strings
+## Arithmetic Operators with Strings
 - The `+` operator can **concatenate strings** (join them together).  
 - The `*` operator can **repeat a string** multiple times.
 
