@@ -10,7 +10,7 @@
 
 ---
 
-## ⚙️ Arithmetic Operators
+## Arithmetic Operators
 - Used to perform **basic mathematical operations** like addition, subtraction, multiplication, and division.
 
 | Operator | Description | Example | Result |
