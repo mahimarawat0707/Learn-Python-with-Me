@@ -103,7 +103,7 @@ Logical operators are essential for decision-making and control flow in Python.
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 - **Arithmetic operators** perform math operations on numbers and strings (in specific cases).  
 - **Comparison operators** compare values and return Boolean results.  
 - **Logical operators** combine or reverse conditions.  
