@@ -92,7 +92,7 @@ Logical operators are essential for decision-making and control flow in Python.
 
 ---
 
-## 🧩 Summary Table
+## Summary Table
 
 | Type | Operator Examples | Used For |
 |------|--------------------|-----------|
