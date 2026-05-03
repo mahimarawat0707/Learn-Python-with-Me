@@ -35,7 +35,7 @@
 - `'String 1' + ' ' + 'String 2'` → `'String 1 String 2'`  
 - `'String 1 ' * 5` → `'String 1 String 1 String 1 String 1 String 1 '`
 
-🧠 **Note:**  
+**Note:**  
 Arithmetic operators with strings only work with `+` (concatenation) and `*` (repetition).  
 You cannot subtract or divide strings.
 
