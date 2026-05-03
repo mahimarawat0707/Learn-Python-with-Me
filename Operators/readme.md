@@ -53,7 +53,7 @@ You cannot subtract or divide strings.
 | `>=` | Greater than or equal to | `5 >= 5` | True |
 | `!=` | Not equal to | `5 != 2` | True |
 
-🧩 **Note:**  
+**Note:**  
 Comparison operators are often used inside **conditions**, such as `if` statements or loops.
 
 ---
