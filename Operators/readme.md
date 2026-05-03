@@ -77,7 +77,7 @@ Logical operators are essential for decision-making and control flow in Python.
 
 ---
 
-## 🔎 Membership Operators
+## Membership Operators
 - Used to check if a value is **present in** or **absent from** a collection (like a list, tuple, or string).
 
 | Operator | Description | Example | Result |
