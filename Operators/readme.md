@@ -1,6 +1,6 @@
 # OPERATORS in Python
 
-## 🔹 What Are Operators?
+## What Are Operators?
 - **Operators** are special symbols or keywords used to perform operations on variables and values.  
 - Python supports different types of operators such as:
   - **Arithmetic Operators**
