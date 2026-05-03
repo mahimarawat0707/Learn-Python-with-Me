@@ -58,7 +58,7 @@ Comparison operators are often used inside **conditions**, such as `if` statemen
 
 ---
 
-## 🧠 Logical Operators
+## Logical Operators
 - Used to combine multiple conditions into a single Boolean expression.  
 
 | Operator | Description | Example | Result |
