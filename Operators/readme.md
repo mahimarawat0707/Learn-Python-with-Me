@@ -21,7 +21,7 @@
 | `/` | Division | `20 / 5` | 4.0 |
 | `%` | Modulus (remainder) | `78 % 12` | 6 |
 
-### 🧮 Additional Concept:
+### Additional Concept:
 - Division always returns a **float**, even when the result is a whole number.  
   Example: `67 / 9` → 7.444444444444445  
 
