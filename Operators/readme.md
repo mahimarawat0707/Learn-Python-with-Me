@@ -72,7 +72,7 @@ Comparison operators are often used inside **conditions**, such as `if` statemen
 - `False or False` → **False**  
 - `not False` → **True**
 
-🧩 **Note:**  
+**Note:**  
 Logical operators are essential for decision-making and control flow in Python.
 
 ---
