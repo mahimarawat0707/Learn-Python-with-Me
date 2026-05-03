@@ -1,4 +1,4 @@
-# ➕ OPERATORS in Python
+# OPERATORS in Python
 
 ## 🔹 What Are Operators?
 - **Operators** are special symbols or keywords used to perform operations on variables and values.  
