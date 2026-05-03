@@ -16,7 +16,7 @@
 - `bool("False")` → **True** (because any **non-empty string** is `True`)  
 - `bool("")` → **False** (empty string is `False`)
 
-📘 **Note:**  
+**Note:**  
 Anything that is **empty** (like `[]`, `""`, `{}`, `set()`, `None`, or `0`) evaluates to **False**.  
 Anything **non-empty** evaluates to **True**.
 
