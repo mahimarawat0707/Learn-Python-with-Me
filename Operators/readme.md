@@ -41,7 +41,7 @@ You cannot subtract or divide strings.
 
 ---
 
-## 🔍 Comparison Operators
+## Comparison Operators
 - Used to **compare two values** and return either **True** or **False**.
 
 | Operator | Description | Example | Result |
