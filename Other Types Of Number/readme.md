@@ -1,4 +1,4 @@
-# 🔢 Integers and Decimals in Python
+# Integers and Decimals in Python
 
 ## 🧮 Integers
 
