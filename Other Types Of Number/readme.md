@@ -17,7 +17,7 @@
 
 ---
 
-### 🔹 Converting from Different Number Bases
+### Converting from Different Number Bases
 - You can specify a **base** (from 2 to 36) as the second argument in the `int()` function.  
 - Python then converts the string according to that base.
 
