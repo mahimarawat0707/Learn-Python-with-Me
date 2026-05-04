@@ -1,6 +1,6 @@
 # Integers and Decimals in Python
 
-## 🧮 Integers
+## Integers
 
 ### 🔹 What Are Integers?
 - **Integers** are whole numbers — they can be positive, negative, or zero.  
