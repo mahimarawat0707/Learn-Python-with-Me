@@ -2,7 +2,7 @@
 
 ## Integers
 
-### 🔹 What Are Integers?
+### What Are Integers?
 - **Integers** are whole numbers — they can be positive, negative, or zero.  
 - Represented using the **`int`** data type.  
 - Integers do **not** have decimal points.  
