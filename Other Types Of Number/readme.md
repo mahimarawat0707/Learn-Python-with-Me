@@ -10,7 +10,7 @@
 
 ---
 
-### 🔹 Converting Strings to Integers
+### Converting Strings to Integers
 - The `int()` function can convert a string containing digits into an integer.  
 - Example Concept:  
   - `int("100")` → **100**  
