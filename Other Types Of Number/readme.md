@@ -34,7 +34,7 @@
 
 ---
 
-## 💰 Decimals
+## Decimals
 
 ### 🔹 The `decimal` Module
 - Python’s `decimal` module provides a **Decimal data type** for precise decimal arithmetic.  
