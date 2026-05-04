@@ -1,4 +1,4 @@
-# ⚙️ Booleans in Python
+# Booleans in Python
 
 ## 🔹 What Are Booleans?
 - Booleans represent **True** or **False** values in Python.  
