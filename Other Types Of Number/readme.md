@@ -26,7 +26,7 @@
 | `int("100", 2)` | Converts binary "100" to decimal | 4 |
 | `int("1ab", 16)` | Converts hexadecimal "1ab" to decimal | 427 |
 
-🧠 **Note:**  
+**Note:**  
 - Base `2` → Binary  
 - Base `8` → Octal  
 - Base `10` → Decimal (default)  
