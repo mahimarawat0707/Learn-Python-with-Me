@@ -63,7 +63,7 @@
 - `Decimal("3.14")` converts a **string**, preserving exact value:  
   - **Decimal('3.14')**
 
-✅ **Best Practice:**  
+**Best Practice:**  
 Always create Decimals from **strings**, not floats, to avoid floating-point precision errors.
 
 ---
