@@ -74,7 +74,7 @@ If `weatherIsNice = False` and `haveUmbrella = True`:
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 - Booleans are used for **decision-making**.  
 - Any **non-empty or non-zero** value is `True`.  
 - **Empty**, **zero**, or **None** values are `False`.  
