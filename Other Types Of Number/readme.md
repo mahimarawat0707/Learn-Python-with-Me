@@ -36,7 +36,7 @@
 
 ## Decimals
 
-### 🔹 The `decimal` Module
+### The `decimal` Module
 - Python’s `decimal` module provides a **Decimal data type** for precise decimal arithmetic.  
 - It helps avoid rounding errors common with floating-point numbers.  
 - Import it using:  
