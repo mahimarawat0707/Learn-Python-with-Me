@@ -44,7 +44,7 @@
 
 ---
 
-### 🔹 Context and Precision
+### Context and Precision
 - The `getcontext()` function allows you to view or modify the **precision** and **rounding rules** of Decimal operations.  
 - Example Concept:
   - Default precision: 28 digits  
