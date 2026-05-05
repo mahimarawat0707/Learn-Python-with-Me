@@ -68,7 +68,7 @@ Always create Decimals from **strings**, not floats, to avoid floating-point pre
 
 ---
 
-## 🧩 Summary Table
+## Summary Table
 
 | Concept | Description | Example | Result |
 |----------|--------------|----------|--------|
