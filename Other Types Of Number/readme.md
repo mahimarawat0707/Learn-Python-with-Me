@@ -81,7 +81,7 @@ Always create Decimals from **strings**, not floats, to avoid floating-point pre
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 - **Integers** are used for whole numbers without decimals.  
 - The `int()` function can convert strings and different base representations.  
 - **Decimals** offer higher precision than floats — ideal for financial and scientific calculations.  
