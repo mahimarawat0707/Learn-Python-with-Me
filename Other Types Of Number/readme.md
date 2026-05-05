@@ -51,7 +51,7 @@
   - You can set custom precision like:  
     - `getcontext().prec = 4` → Precision set to 4 digits  
 
-🧠 **Note:**  
+**Note:**  
 - The context defines how arithmetic operations are handled, including precision and rounding mode.
 
 ---
