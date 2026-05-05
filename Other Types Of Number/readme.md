@@ -56,7 +56,7 @@
 
 ---
 
-### 🔹 Using Decimals
+### Using Decimals
 - `Decimal(1) / Decimal(3)` → **Decimal('0.3333')** (shows precision up to 4 digits)  
 - `Decimal(3.14)` converts a **float**, which includes tiny binary rounding errors:  
   - **Decimal('3.140000000000000124344978758017532527446746826171875')**  
