@@ -46,5 +46,5 @@
 |----------------|----------|----------|-------------------|----------------------------------------|
 | **List**       | Yes   |  Yes   | Yes            | Store ordered, changeable data         |
 | **Set**        | No    | Yes   | No             | Store unique, unordered data           |
-| **Tuple**      | Yes   | ❌ No    | ✅ Yes            | Store fixed, ordered data              |
+| **Tuple**      | Yes   | No    | ✅ Yes            | Store fixed, ordered data              |
 | **Dictionary** | ✅ (3.7+) | ✅ Yes  | ❌ (keys only)    |
