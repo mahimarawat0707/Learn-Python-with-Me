@@ -45,6 +45,6 @@
 | Data Type     | Ordered | Mutable | Allows Duplicates | Main Use                              |
 |----------------|----------|----------|-------------------|----------------------------------------|
 | **List**       | Yes   |  Yes   | Yes            | Store ordered, changeable data         |
-| **Set**        | No    | ✅ Yes   | ❌ No             | Store unique, unordered data           |
+| **Set**        | No    | Yes   | ❌ No             | Store unique, unordered data           |
 | **Tuple**      | ✅ Yes   | ❌ No    | ✅ Yes            | Store fixed, ordered data              |
 | **Dictionary** | ✅ (3.7+) | ✅ Yes  | ❌ (keys only)    |
