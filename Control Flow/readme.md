@@ -1,4 +1,4 @@
-# 🔁 Control Flow in Python
+# Control Flow in Python
 
 ## 🔹 What is Control Flow?
 - **Control flow** refers to the order in which individual statements, instructions, or function calls are executed in a program.  
