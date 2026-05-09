@@ -6,7 +6,7 @@
 
 ---
 
-## ⚙️ If / Else Statements
+##  If / Else Statements
 - The `if` statement allows code to run **only if** a certain condition is **True**.  
 - The `else` block runs if the condition is **False**.  
 - Statements **outside** the `if` block run **regardless** of the condition.
