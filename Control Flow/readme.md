@@ -44,7 +44,7 @@
 
 ---
 
-## 🔂 While Loops
+## While Loops
 - A `while` loop repeats as long as a specified condition is **True**.  
 - It checks the condition **before** each iteration.  
 - If the condition becomes **False**, the loop stops.
