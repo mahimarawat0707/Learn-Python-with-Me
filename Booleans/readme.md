@@ -67,7 +67,7 @@ If `weatherIsNice = False` and `haveUmbrella = True`:
 | Expression | Description | Result |
 |-------------|--------------|---------|
 | `True and True` | Both are true | ✅ True |
-| `True and False` | One is false | ❌ False |
+| `True and False` | One is false | False |
 | `True or False` | At least one is true | True |
 | `not True` | Reverses to false | False |
 | `not False` | Reverses to true | True |
