@@ -75,7 +75,7 @@
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 - **Indentation** is crucial in Python control flow.  
 - `if/else` handles **decision-making**.  
 - `for` loops are for **iteration**.  
