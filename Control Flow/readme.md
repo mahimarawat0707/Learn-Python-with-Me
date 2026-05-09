@@ -64,7 +64,7 @@
 
 ---
 
-## 🧠 Summary Table
+## Summary Table
 
 | Control Structure | Description | Executes When |
 |--------------------|--------------|----------------|
