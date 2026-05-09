@@ -24,7 +24,7 @@
 
 ---
 
-## 🔁 For Loops
+## For Loops
 - A `for` loop is used to **iterate** (loop) through a sequence such as a list, tuple, or string.  
 - It runs once for **each item** in the sequence.
 
