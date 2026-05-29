@@ -172,4 +172,5 @@ print(employees)
 #date comparisions
 employees[
   employees["JoiningDate"] ==
+  pd.Timestamp.today().normalize()
 ]
