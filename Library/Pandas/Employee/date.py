@@ -170,4 +170,6 @@ employees[
 print(employees)
 
 #date comparisions
-employees[]
+employees[
+  employees["JoiningDate"] ==
+]
