@@ -174,3 +174,4 @@ employees[
   employees["JoiningDate"] ==
   pd.Timestamp.today().normalize()
 ]
+print(employees)
