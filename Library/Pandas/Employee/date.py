@@ -164,5 +164,6 @@ print(employees)
 employees[
   employees["JoiningDate"].between(
     "2020-01-01"
+    "2022-01-31"
   )
 ]
