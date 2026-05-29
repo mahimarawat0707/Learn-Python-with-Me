@@ -167,3 +167,4 @@ employees[
     "2022-01-31"
   )
 ]
+print(employees)
