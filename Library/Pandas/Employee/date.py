@@ -156,4 +156,5 @@ print(employees)
 #filtering dates
 employees[
   employees["JoiningDate"] >
+  "2020-01-01"
 ]
