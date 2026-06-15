@@ -45,3 +45,4 @@ employees.groupby("Department")["Salary"].mean()
 employees.groupby("Department")["Salary"].count()
 
 #max()
+employees.groupby("Department")["Salary"].max()
