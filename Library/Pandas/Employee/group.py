@@ -41,3 +41,4 @@ employees.groupby("Department")["Salary"].sum()
 #mean()
 employees.groupby("Department")["Salary"].mean()
 
+#count()
