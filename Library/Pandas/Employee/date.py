@@ -181,3 +181,4 @@ employees.sort_values(
   by="JoiningDate",
   ascending=False
 )
+print(employees)
