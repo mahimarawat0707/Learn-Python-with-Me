@@ -33,3 +33,4 @@ employees = pd.DataFrame({
 })
 print(employees)
 
+employees.groupby("Department")
