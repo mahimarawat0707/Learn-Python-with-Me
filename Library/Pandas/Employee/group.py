@@ -36,3 +36,4 @@ print(employees)
 employees.groupby("Department")
 
 #sum
+employees.groupby("Department")["Salary"].sum()
