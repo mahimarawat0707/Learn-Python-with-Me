@@ -103,3 +103,5 @@ employees["Experience"] = today - employees["JoiningDate"]
 print (employees)
 
 #timedelta represt the differnce between two dates or times
+today = pd.Timestamp.today()
+
