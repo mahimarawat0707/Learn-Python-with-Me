@@ -112,3 +112,8 @@ employees["ExperienceYears"] = (
 print(employees)
 
 #add days
+employees["ProbationEnd"] = (
+  employees["JoiningDate"] + 
+  pd.Timedelta(days=90)
+)
+print(employees)
