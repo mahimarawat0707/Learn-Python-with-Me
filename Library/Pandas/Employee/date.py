@@ -106,4 +106,7 @@ print (employees)
 
 #convert timedelta into years
 today = pd.Timestamp.today()
-
+employees["ExperienceYears"] = (
+  (today - employees["JoiningDate"]).dt.days / 365
+)
+print(employees)
