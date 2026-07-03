@@ -104,6 +104,6 @@ print (employees)
 
 #timedelta represt the differnce between two dates or times
 
-
+#convert timedelta into years
 today = pd.Timestamp.today()
 
