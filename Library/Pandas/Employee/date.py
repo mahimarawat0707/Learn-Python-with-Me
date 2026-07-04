@@ -130,3 +130,4 @@ employees["ProbationEnd"] = (
   employees["JoiningDate"] + 
   pd.Timedelta(days=90)
 )
+print(employees)
