@@ -149,4 +149,5 @@ print(employees)
 #subtract days
 employees["ReminderDate"] = (
   employees["JoiningDate"] -
+  pd.Timedelta(days=7)
 )
