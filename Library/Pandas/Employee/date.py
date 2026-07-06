@@ -144,3 +144,4 @@ employees["PromotionDate"] = (
   employees["JoiningDate"] +
   pd.DateOffset(years=2)
 )
+print(employees)
