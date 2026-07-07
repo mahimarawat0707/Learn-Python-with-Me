@@ -23,7 +23,7 @@ employees = pd.DataFrame({
     "2026-07-02 08:30:45", 
     "2026-07-03 11:20:10", 
     "2026-07-04 07:55:25" 
-  ]
+  ],
 
   "JoiningDate": [ 
     "2020-05-15", 
@@ -84,4 +84,4 @@ employees["Day"] = employees["LoginTime"].dt.day
 employees["Hour"] = employees["LoginTime"].dt.hour 
 employees["Minute"] = employees["LoginTime"].dt.minute 
 employees["DayName"] = employees["LoginTime"].dt.day_name() 
-employees["MonthName"] = employees["LoginTime"].dt.month_name()r
+employees["MonthName"] = employees["LoginTime"].dt.month_name()
