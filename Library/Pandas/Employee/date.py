@@ -85,3 +85,6 @@ employees["Hour"] = employees["LoginTime"].dt.hour
 employees["Minute"] = employees["LoginTime"].dt.minute 
 employees["DayName"] = employees["LoginTime"].dt.day_name() 
 employees["MonthName"] = employees["LoginTime"].dt.month_name()
+
+employees["JoiningDate"] = pd.to_datetime(employees["JoiningDate"])
+print(employees)
