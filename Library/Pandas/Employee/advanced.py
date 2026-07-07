@@ -76,3 +76,8 @@ print(employees[
 ])
 
 #regex with str.replace()
+employees["Name"] = employees["Name"].str.replace(
+  r"\d",
+  "",
+  regex = True
+)
