@@ -92,3 +92,7 @@ print(employees)
 #current date and time 
 today = pd.Timestamp.now()
 print(today)
+
+#current date only 
+today = pd.Timestamp.today().normalize()
+print(today)
