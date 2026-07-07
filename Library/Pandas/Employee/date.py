@@ -68,3 +68,12 @@ dates = pd.to_datetime([
 ])
 
 dates.is_leap_year
+
+#combining multiple date functions
+employees["Year"] = employees["LoginTime"].dt.year 
+employees["Month"] = employees["LoginTime"].dt.month 
+employees["Day"] = employees["LoginTime"].dt.day 
+employees["Hour"] = employees["LoginTime"].dt.hour 
+employees["Minute"] = employees["LoginTime"].dt.minute 
+employees["DayName"] = employees["LoginTime"].dt.day_name() 
+employees["MonthName"] = employees["LoginTime"].dt.month_name()r
