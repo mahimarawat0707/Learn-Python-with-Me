@@ -96,3 +96,10 @@ print(today)
 #current date only 
 today = pd.Timestamp.today().normalize()
 print(today)
+
+#subtract two dates
+today = pd.Timestamp.today()
+employees["Experience"] = today - employees["JoiningDate"]
+print (employees)
+
+#timedelta represt the differnce between two dates or times
