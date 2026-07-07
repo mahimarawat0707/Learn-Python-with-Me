@@ -88,3 +88,7 @@ employees["MonthName"] = employees["LoginTime"].dt.month_name()
 
 employees["JoiningDate"] = pd.to_datetime(employees["JoiningDate"])
 print(employees)
+
+#current date and time 
+today = pd.Timestamp.now()
+print(today)
